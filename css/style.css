@@ -112,7 +112,7 @@
 /*Singup.html*/
 .back
 {
-    background:url('back.jpg')  center center fixed;
+    background:url("../resource/back.jpg")  center center fixed;
     margin:0px;
     background-repeat: no-repeat;
 
